@@ -19,7 +19,7 @@ Os dados selecionados manualmente estão no arquivo [BD_analises_funcionais.xlsx
 As rotinas aplicadas estão no arquivo [pre-processing.ipynb](https://github.com/PedroAntonioFS/aprendizado-de-maquina-aplicado-a-analises-funcionais-moleculares/blob/dev/pre-processing.ipynb). Os procedimentos aplicados gerou as bases de dados [preprocessed_lemmatization.xlsx](https://github.com/PedroAntonioFS/aprendizado-de-maquina-aplicado-a-analises-funcionais-moleculares/blob/dev/preprocessed_lemmatization.xlsx) e [preprocessed_stemming.xlsx](https://github.com/PedroAntonioFS/aprendizado-de-maquina-aplicado-a-analises-funcionais-moleculares/blob/dev/preprocessed_stemming.xlsx).
 
 ### Transformação e Mineração
-As rotinas aplicadas estão no arquivo [transformation_and_data_mining.ipynb](https://github.com/PedroAntonioFS/aprendizado-de-maquina-aplicado-a-analises-funcionais-moleculares/blob/dev/transformation_and_data_mining.ipynb).
+As rotinas aplicadas estão no arquivo [transformation_and_data_mining.ipynb](https://github.com/PedroAntonioFS/aprendizado-de-maquina-aplicado-a-analises-funcionais-moleculares/blob/dev/transformation_and_data_mining.ipynb). 
 
 ### Avaliação
 As rotinas aplicadas também estão no arquivo [transformation_and_data_mining.ipynb](https://github.com/PedroAntonioFS/aprendizado-de-maquina-aplicado-a-analises-funcionais-moleculares/blob/dev/transformation_and_data_mining.ipynb). Os resultados detalhados e comentados podem encontram-se no [artigo](https://drive.google.com/file/d/1Vsja8qt6qJNm2Fdh5Nq0QP_xMe4zMVyv/view?usp=sharing).
